@@ -1,4 +1,4 @@
-#Password Security Check Tool
+# Password Security Check Tool
 This program is a password security check tool that uses the MD5 hashing algorithm to determine if a user's password is among a list of common passwords. The tool is designed to help users understand the security level of their passwords by checking them against a known list of frequently used passwords. Additionally, it is deployed as a full-stack web application using Flask and Heroku.
 
 Live Demo: https://password-checker-81c2ae152311.herokuapp.com/check_password
